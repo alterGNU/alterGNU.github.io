@@ -1,1 +1,1 @@
-[my wiki notes](https://altergnu42.github.io/)
+[my wiki notes](https://altergnu.github.io/)
